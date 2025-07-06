@@ -4,6 +4,7 @@ const Button = ({text, className, id}) => {
     return (
         <a
             onClick={(e) => {
+                // Prevent the screen being reload
                 e.preventDefault()
 
                 const target = document.getElementById('counter')
