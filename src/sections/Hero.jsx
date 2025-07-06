@@ -26,7 +26,7 @@ const Hero = () => {
             }
         )
     })
-    
+
     return (
         <section id='hero' className='relative overflow-hidden'>
             <div className='absolute top-0 left-0 z-10'>
@@ -78,8 +78,9 @@ const Hero = () => {
                         <HeroExperience />
                     </div>
                 </figure>
-
             </div>
+
+            
         </section>
     )
 }
