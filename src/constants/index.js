@@ -62,19 +62,24 @@ const logoIconsList = [
 
 const abilities = [
   {
-    imgPath: "/images/seo.png",
-    title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    imgPath: "/images/logos/growth.png",
+    title: "Continuous Learning",
+    desc: "Self-taught developer who embraces challenges and never stops learning, even during difficult times like COVID-19.",
   },
   {
-    imgPath: "/images/chat.png",
-    title: "Reliable Communication",
-    desc: "Keeping you updated at every step to ensure transparency and clarity.",
+    imgPath: "/images/logos/target.png",
+    title: "Persistent & Goal-Oriented",
+    desc: "Self-disciplined individual who never gives up on goals, maintaining focus through obstacles and setbacks.",
   },
+  // {
+  //   imgPath: "/images/logos/calendar.png",
+  //   title: "Strong Planning Skills",
+  //   desc: "Highly organized with excellent scheduling abilities, ensuring projects stay on track and deadlines are met.",
+  // },
   {
-    imgPath: "/images/time.png",
-    title: "On-Time Delivery",
-    desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+    imgPath: "/images/logos/united.png",
+    title: "Collaborative Team Player",
+    desc: "Always committed to giving my best in group work, actively improving communication skills to work effectively with others.",
   },
 ];
 
