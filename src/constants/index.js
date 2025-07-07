@@ -35,39 +35,28 @@ const counterItems = [
   { value: 7, suffix: "+", label: "Languages & Frameworks Explored" },
 ];
 
+// Change to techStack List (source from https://devicon.dev/)
 const logoIconsList = [
   {
-    imgPath: "/images/logos/company-logo-1.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
   },
   {
-    imgPath: "/images/logos/company-logo-2.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg",
   },
   {
-    imgPath: "/images/logos/company-logo-3.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
   },
   {
-    imgPath: "/images/logos/company-logo-4.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg",
   },
   {
-    imgPath: "/images/logos/company-logo-5.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg",
   },
   {
-    imgPath: "/images/logos/company-logo-6.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg",
   },
   {
-    imgPath: "/images/logos/company-logo-7.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-8.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-9.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-10.png",
-  },
-  {
-    imgPath: "/images/logos/company-logo-11.png",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg",
   },
 ];
 
