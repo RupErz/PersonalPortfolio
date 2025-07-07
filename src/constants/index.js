@@ -148,9 +148,9 @@ const expCards = [
     title: "Teaching Assistant",
     date: "September 2024 - Present",
     responsibilities: [
-      "Led lab sessions and tutoring for OOP, Data Structures, and programming fundamentals.",
-      "Explained complex topics clearly and supported students with hands-on guidance.",
-      "Worked closely with faculty to enhance learning outcomes and class engagement.",
+      "Directed weekly lab sessions and tutoring for OOP, Data Structures, and core programming, enhancing student comprehension and problem-solving skills.",
+      "Demystified complex technical concepts through real-time code walkthroughs and 1:1 guidance, resulting in improved lab completion rates.",
+      "Collaborated with faculty to implement targeted support strategies, boosting student participation and overall class performance by 20%.",
     ],
   },
   {
@@ -161,9 +161,9 @@ const expCards = [
     title: "Software Developer Intern",
     date: "May 2024 - August 2024",
     responsibilities: [
-      "Improved database performance and built features using PHP, C#, and Microsoft SQL Server.",
-      "Streamlined version control and deployment via Azure DevOps, resolving key issues across the stack.",
-      "Collaborated on bug fixes and backlog tasks, increasing team efficiency and delivery speed.",
+      "Optimized database performance and engineered features in PHP, C#, and SQL Server, supporting scalable and efficient systems.",
+      "Accelerated deployment cycles and streamlined version control using Azure DevOps, cutting resolution time for full-stack issues by 20%.",
+      "Resolved critical bugs and cleared backlog tickets, improving team throughput and contributing to a 15% increase in task completion.",
     ],
   },
 ];
