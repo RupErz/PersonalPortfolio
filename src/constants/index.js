@@ -205,13 +205,6 @@ const testimonials = [
       "During our internship at Nucor, Nghia stood out for his commitment to problem-solving and team collaboration. He handled complex deployment issues and contributed clean, maintainable code in C# and PHP. It was a pleasure working with him.",
     imgPath: "/images/client2.png",
   },
-  {
-    name: "Derek Kim",
-    mentions: "@derekfrontend",
-    review:
-     "Nghia has a real eye for UI/UX. His use of Figma and React Native animations made PennyPal not only functional but delightful to use. He understands what makes an app feel intuitive, and that’s rare.",
-    imgPath: "/images/client5.png",
-  },
 ];
 
 const socialImgs = [
