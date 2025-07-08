@@ -1,12 +1,62 @@
-# React + Vite
+## 💼 Portfolio
+![Portfolio Banner](./public/images/ProjectPreview.png/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio! This is a modern, interactive web application showcasing my projects and skills through immersive 3D experiences and animations inspired by Adrian Javascript Mastery Youtube.
 
-Currently, two official plugins are available:
+### ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Interactive 3D elements and animations
+- Responsive design for all devices
+- Smooth scrolling and transitions
+- Modern UI/UX design
+- Performance optimized
 
-## Expanding the ESLint configuration
+## ⚙️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Three.js
+* React Three Fiber
+* Drei
+* GSAP
+* Tailwind CSS
+* Vite
+* React 19
+
+## 🛠️ Installation & Setup
+
+1. Clone the repository
+```bash
+git clone https://github.com/RupErz/PersonalPortfolio.git
+cd portfolio
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Start the development server
+```bash
+npm run dev
+```
+
+4. Open your browser and navigate to the link from terminal
+
+## 🎯 Skills
+
+- **Frontend**: React, TypeScript, JavaScript, HTML5, CSS3
+- **3D Development**: Three.js, React Three Fiber, WebGL
+- **Animation**: GSAP, Framer Motion
+- **Styling**: Tailwind CSS, Styled Components, SCSS
+- **Tools**: Vite, Webpack, Git, VS Code
+
+## 🙏 Credits & Inspiration
+
+This portfolio was inspired by [Javascript Mastery Youtube](https://github.com/adrianhajdin) . Thank you for the inspiration!
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+⭐ **I have learnt so many things especially 3d animation, give me a star if you want to give me a small compliment for spending 4 days straight to work on this project!**
