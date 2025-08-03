@@ -59,7 +59,7 @@ const ShowcaseSection = () => {
                         <div className='text-content'>
                             <h2>Track expenses, manage budgets, and achieve your financial goals with PennyPal</h2>
                             <p className='text-white-50 md:text-xl'>
-                                An app built with React Native, Expo and Tailwind CSS for a fast, user-friendly experience and providing smart insights graph with React Native Chart Kit.
+                                An app built with <b>React Native</b>, <b>Expo</b> and <b>Tailwind CSS</b> for a fast, user-friendly experience and providing smart insights graph with React Native Chart Kit.
                             </p>
                         </div>
                     </div>
@@ -67,15 +67,17 @@ const ShowcaseSection = () => {
                     <div className='project-list-wrapper overflow-hidden'>
                         <div className='project' ref={project2Ref}>
                             <div className='image-wrapper bg-[#ffefdb]'>
-                                <img src='/images/project2.png' alt='Recipe Management App' />
+                                <img src='/images/project4.png' alt='Prep Bot AI' />
                             </div>
-                            <h2>Recipe Management Mobile App</h2>
+                            <h2>PrepBot AI Assistant</h2>
+                            <p className='text-white-50 md:text-xl'>Next.js, Firebase, Vapi AI, Tailwind CSS, Google Gemini AI, Typescript</p>
                         </div>
                         <div className='project' ref={project3Ref}>
                             <div className='image-wrapper bg-[#ffe7eb]'>
                                 <img src='/images/project3.png' alt='Start Pro' />
                             </div>
                             <h2>Start Pro - A Start Up Showcase Website</h2>
+                            <p className='text-white-50 md:text-xl'>React, Next.js, Typescript, Tailwind CSS, Sanity, Github OAuth</p>
                         </div>
                     </div>
                 </div>

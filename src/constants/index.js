@@ -15,6 +15,11 @@ const navLinks = [
     name: "Testimonials",
     link: "#testimonials",
   },
+  {
+    name: "Resume",
+    link: "/Resume.pdf",
+    isDownload: true
+  }
 ];
 
 const words = [
@@ -29,7 +34,7 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 3, suffix: "+", label: "Personal Projects" },
+  { value: 4, suffix: "+", label: "Personal Projects" },
   { value: 4, suffix: "", label: "Years Studying CS" },
   { value: 1, suffix: "", label: "Internship Completed" },  // or "Teaching Assistant" if relevant
   { value: 7, suffix: "+", label: "Languages & Frameworks Explored" },
@@ -85,24 +90,24 @@ const abilities = [
 
 const techStackImgs = [
   {
-    name: "React Developer",
+    name: "React",
     imgPath: "/images/logos/react.png",
   },
   {
-    name: "Python Developer",
-    imgPath: "/images/logos/python.svg",
+    name: "Next.js",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
   },
   {
-    name: "Backend Developer",
-    imgPath: "/images/logos/node.png",
+    name: "Python",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
   },
   {
-    name: "Interactive Developer",
-    imgPath: "/images/logos/three.png",
+    name: "PostgreSQL",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
   },
   {
-    name: "Project Manager",
-    imgPath: "/images/logos/git.svg",
+    name: "Javascript",
+    imgPath: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
   },
 ];
 

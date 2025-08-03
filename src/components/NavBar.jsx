@@ -26,9 +26,12 @@ const NavBar = () => {
                 {/* NavBar Content */}
                 <nav className='desktop'>
                     <ul>
-                        {navLinks.map(({link, name}) => (
+                        {navLinks.map(({link, name, isDownload}) => (
                             <li key={name} className='group'>
-                                <a href={link}>
+                                <a 
+                                    href={link}
+                                    {...(isDownload && {download: true, target: '_blank'})}
+                                >
                                     <span>{name}</span>
                                     <span className='underline' />
                                 </a>
@@ -36,6 +39,7 @@ const NavBar = () => {
                         ))}
                     </ul>
                 </nav>
+                
                 {/* Contact me */}
                 <a href='#contact' className='contact-btn group'>
                     <div className='inner'>
