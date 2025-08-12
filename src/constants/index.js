@@ -215,7 +215,7 @@ const testimonials = [
 const socialImgs = [
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/nghia-vu-784678242/",
+    url: "https://www.linkedin.com/in/minhnghia-vu-784678242/",
     imgPath: "/images/linkedin.png",
   },
 ];
