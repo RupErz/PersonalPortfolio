@@ -30,7 +30,7 @@ const NavBar = () => {
                             <li key={name} className='group'>
                                 <a 
                                     href={link}
-                                    {...(isDownload && {download: true, target: '_blank'})}
+                                    {...(isDownload && {target: '_blank', rel: 'noopener noreferrer'})}
                                 >
                                     <span>{name}</span>
                                     <span className='underline' />

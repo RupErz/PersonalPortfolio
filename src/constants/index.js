@@ -17,7 +17,7 @@ const navLinks = [
   },
   {
     name: "Resume",
-    link: "/Resume.pdf",
+    link: "/ResumeNghiaVu.pdf",
     isDownload: true
   }
 ];
@@ -34,10 +34,10 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 4, suffix: "+", label: "Personal Projects" },
+  { value: 6, suffix: "+", label: "Personal Projects" },
   { value: 4, suffix: "", label: "Years Studying CS" },
   { value: 1, suffix: "", label: "Internship Completed" },  // or "Teaching Assistant" if relevant
-  { value: 7, suffix: "+", label: "Languages & Frameworks Explored" },
+  { value: 2, suffix: "+", label: "Hackathons Participated" },
 ];
 
 // Change to techStack List (source from https://devicon.dev/)
